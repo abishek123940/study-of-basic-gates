@@ -80,7 +80,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![ Image ](https://github.com/user-attachments/assets/b9664a2d-ac6d-442d-9110-e9f1d7cc9b2e)
 
 ** TIMING DIAGRAM**
-![TIMING](https://github.com/user-attachments/assets/f76502cd-81e1-4318-bf27-dfe23216965a)
+![timing ](https://github.com/user-attachments/assets/17a60a6f-5bb5-4d34-9e5e-4cc981cbeb31)
+
 
 
 
