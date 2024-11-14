@@ -1,5 +1,7 @@
 **NAME : S ABISHEK **
+
 **REG NO : 24900833 **
+
 **EXPERIMENT 1 : STUDY OF BASIC GATES**
 
 **AIM:** 
